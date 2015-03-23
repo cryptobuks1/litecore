@@ -10,8 +10,8 @@ exports.livenet = {
   addressVersion: 0x30,
   privKeyVersion: 176,
   P2SHVersion: 5,
-  hkeyPublicVersion: 0x0488b21e,
-  hkeyPrivateVersion: 0x0488ade4,
+  hkeyPublicVersion: 0x019da462,
+  hkeyPrivateVersion: 0x019d9cfe,
   genesisBlock: {
     hash: hex('e2bf047e7e5a191aa4ef34d314979dc9986e0f19251edaba5940fd1fe365a712'),
     merkle_root: hex('97ddfbbae6be97fd6cdf3e7ca13232a3afff2353e29badfab7f73011edd4ced9'),
