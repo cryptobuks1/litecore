@@ -4,9 +4,10 @@
   "version": "0.1.35",
   "homepage": "http://bitcore.io",
   "authors": [
-    "Ryan X. Charles (<ryan@bitpay.com>)"
+    "Ryan X. Charles (<ryan@bitpay.com>)",
+    "Treefunder"
   ],
-  "description": "A pure, powerful core for your bitcoin project.",
+  "description": "A pure, powerful core for your litecoin project.",
   "moduleType": [
     "globals"
   ],
@@ -14,7 +15,10 @@
     "bitcoin",
     "bitcore",
     "btc",
-    "satoshi"
+    "satoshi",
+    "litecoin",
+    "litecore",
+    "ltc"
   ],
   "license": "MIT",
   "ignore": [

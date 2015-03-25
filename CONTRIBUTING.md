@@ -1,7 +1,7 @@
 Contributing to Bitcore
 =======
 
-Are you a developer looking to learn more about bitcoin? 
+Are you a developer looking to learn more about litecoin? 
 Bitcore is a great opportunity to do so, and give back to
 the community. At BitPay we encourage any developer to read the source 
 code and help us improve it by fixing bugs, implementing
