@@ -2006,8 +2006,8 @@ function hasOwnProperty(obj, prop) {
   return Object.prototype.hasOwnProperty.call(obj, prop);
 }
 
-}).call(this,require("/home/ceo/live/chains/paytokens/litecore/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js"),typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./support/isBuffer":7,"/home/ceo/live/chains/paytokens/litecore/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js":6,"inherits":5}],"sinon":[function(require,module,exports){
+}).call(this,require("/home/ceo/live/chains/litetokens/litecore/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js"),typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
+},{"./support/isBuffer":7,"/home/ceo/live/chains/litetokens/litecore/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js":6,"inherits":5}],"sinon":[function(require,module,exports){
 module.exports=require('3kNi7S');
 },{}],"3kNi7S":[function(require,module,exports){
 /**
@@ -2637,8 +2637,8 @@ var sinon = (function () {
     }
 }(typeof sinon == "object" && sinon || null));
 
-}).call(this,require("/home/ceo/live/chains/paytokens/litecore/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js"))
-},{"./extend":15,"./util/core":27,"/home/ceo/live/chains/paytokens/litecore/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js":6}],13:[function(require,module,exports){
+}).call(this,require("/home/ceo/live/chains/litetokens/litecore/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js"))
+},{"./extend":15,"./util/core":27,"/home/ceo/live/chains/litetokens/litecore/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js":6}],13:[function(require,module,exports){
 /**
   * @depend util/core.js
   * @depend match.js
